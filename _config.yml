@@ -1,7 +1,7 @@
 # Setup
 title:               O.W.L
 tagline:             'Wireless Reading Group'
-description:         'A magical world with advanced wireless technologies'
+description:         'A magical world of advanced wireless technologies'
 url:                 'https://owlreading.github.io/'
 baseurl:             ''
 paginate:            5
