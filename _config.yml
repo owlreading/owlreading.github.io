@@ -2,7 +2,7 @@
 title:               O.W.L
 tagline:             'Wireless Reading Group'
 description:         'A magical world of advanced wireless technologies'
-url:                 'https://owlreading.github.io/'
+url:                 'https://owlwireless.github.io/'
 baseurl:             ''
 paginate:            5
 permalink:           pretty
