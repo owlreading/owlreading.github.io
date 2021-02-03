@@ -14,4 +14,7 @@ We are group of graduate students in wirless systems research. We invite a speak
 
 [Ish Jain (UCSD)](https://ishjain.github.io/) [ikjain@eng.ucsd.edu]
 
+### O.W.L?
+O.W.L was founded in Fall 2020 as a small group of Ph.D. students interested in Ordinary.Wireless.Lectures. It has grown to 50+ members in less than a year, and these are the people who make O.W.L an Outstanding.Wireless.Lecture community.
+
 
